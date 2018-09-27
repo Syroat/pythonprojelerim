@@ -1,7 +1,7 @@
 print("""
 *********************************
     ATM UyGuLaMaSI
-  c0der By xVenoM
+  c0der By Syroat
 
   İşlemler:
 
