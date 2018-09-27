@@ -3,7 +3,7 @@ $*$*$*$*$*$*$*$*$*$*$*$*$*$*$*$*$*$*$
 
     Faktöriyel bulma programı ..
 
-      c0der by xVenom
+      c0der by Syroat
 
 $*$*$*$*$*$*$*$*$*$*$*$*$*$*$*$*$*$*$
 
